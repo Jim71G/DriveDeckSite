@@ -1,0 +1,41 @@
+body {
+    font-family: system-ui, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #050510;
+    color: #f5f5ff;
+}
+
+header {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: radial-gradient(circle at top, #6a4bff, #050510);
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 0.5rem;
+}
+
+.cta-button {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 1.5rem;
+    background: #8b5bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 999px;
+}
+
+section {
+    padding: 3rem 1.5rem;
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    border-top: 1px solid #333;
+    font-size: 0.9rem;
+}
